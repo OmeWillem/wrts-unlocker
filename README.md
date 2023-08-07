@@ -4,8 +4,8 @@ This is a simple userscript used to demonstrate how you can easily bypass https:
 All of this is purely for educational purposes and will be reported to the developers of Futurewhiz.
 
 ### Requirements.
-> A modern browser
-> Tampermonkey (or some other userscript extension)
+1. A modern browser
+2. Tampermonkey (or some other userscript extension)
 
 ### How to install?
 1. First download the userscript from this repo.
