@@ -12,3 +12,9 @@ All of this is purely for educational purposes and will be reported to the devel
 2. When you've downloaded it you can click on it and tampermonkey should recognize the userscript.
 3. Then just follow tampermonkey's instructions
 4. Go to the StudyGo site and enjoy.
+
+### What does this unlock?
+1. It unlocks all the videos.
+2. It unlocks the "Oefenen" function on most StudyGo-made topics, so you have every question for free (not the free 2 that you already get)
+3. It unlocks the two paid learning methods.
+4. More to come probably.
