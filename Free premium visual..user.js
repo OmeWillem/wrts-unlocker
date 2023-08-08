@@ -2,7 +2,7 @@
 // @name         Free premium.
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  wrts devs are real shit coders
+// @description  THIS WILL BE PATCHED SOON
 // @author       You
 // @match        https://studygo.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wrts.nl
@@ -36,7 +36,7 @@ window.XMLHttpRequest.prototype.open = function(method, url, async, user, passwo
         });
     }
 
-// this exploits the free two questions and allows all questions LOL XD SHIT CODERS
+// this exploits the free two questions and allows all questions 
     if (url.includes("/api/v3/stage_exercises")) {
         this.addEventListener('load', function() {
             const old = JSON.parse(this.responseText);
