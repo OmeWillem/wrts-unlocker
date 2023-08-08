@@ -1,5 +1,5 @@
 # StudyGo/WRTS Unlocker
-## Educational purposes only.
+## Educational purposes only. THIS WILL BE PATCHED SOON.
 This is a simple userscript used to demonstrate how you can easily bypass https://studygo.com
 All of this is purely for educational purposes and will be reported to the developers of Futurewhiz.
 
